@@ -1,0 +1,12 @@
+17:18:11,322  INFO com.bridgelabz.baseclass.BaseClass<strong>{1}</strong>:23 - Chrome Browser has launched
+17:18:11,325 DEBUG com.bridgelabz.baseclass.BaseClass<strong>{1}</strong>:25 - Implicit Time wait
+17:18:17,472  INFO com.bridgelabz.baseclass.BaseClass<strong>{1}</strong>:30 - quit
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-4
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-9
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 26 thread-local buffer(s) from thread: AsyncHttpClient-1-5
+17:18:17,649 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-6
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-10
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 19 thread-local buffer(s) from thread: AsyncHttpClient-1-8
+17:18:17,648 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 4 thread-local buffer(s) from thread: AsyncHttpClient-1-7
+17:18:17,649 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 15 thread-local buffer(s) from thread: AsyncHttpClient-1-2
+17:18:17,649 DEBUG io.netty.buffer.PoolThreadCache<strong>{1}</strong>:224 - Freed 2 thread-local buffer(s) from thread: AsyncHttpClient-1-3
